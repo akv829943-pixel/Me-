@@ -1,0 +1,6 @@
+{
+  "name": "InstaBoost",
+  "description": "Premium social media marketing and organic growth platform for creators and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
